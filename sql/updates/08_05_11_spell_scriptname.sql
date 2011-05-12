@@ -1,3 +1,3 @@
-DELETE FROM `spell_script_names` WHERE `spell_id` = 50334;
-INSERT INTO `spell_script_names` VALUES
-(50334, 'spell_dru_berserk');
+version https://git-lfs.github.com/spec/v1
+oid sha256:054a971da0ff0089053c79de680cbbe25bef22725b895fb4e5f6ade9fccd2290
+size 607
