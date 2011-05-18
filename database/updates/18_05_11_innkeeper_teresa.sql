@@ -1,3 +1,3 @@
--- Innkeeper Teresa <Innkeeper>
-UPDATE creature_template SET 
-minlevel=84, maxlevel=84, faction_A=12, faction_H=12, npcflag=66177, Health_mod=70946 ScriptName='npc_innkeeper' WHERE entry=49686;
+version https://git-lfs.github.com/spec/v1
+oid sha256:413bcc02cf75fe1a59e7079ae63f05c92a9321050caa2c33319a7bd845d0aa22
+size 621
