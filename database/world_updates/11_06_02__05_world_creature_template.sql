@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3f5982be0a803c6ff44e2d2a11f3b348881eef1e57cf77ac1cf1f8b96669635a
-size 16483
+-- Felstalker
+UPDATE creature_template SET 
+npcflag=0, speed_walk=0.8, speed_run=1.14286, rangeattacktime=2178, dynamicflags=8, minrangedmg=2, maxrangedmg=3, rangedattackpower=100, InhabitType=1 WHERE entry=3102;
